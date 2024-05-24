@@ -8,6 +8,7 @@ Responsive Design: Ensures the web application is accessible on various devices.
 Continuous Integration and Deployment: Managed via GitHub Actions for seamless updates and deployment.
 
 ARCHITECTURE
+
 The application is structured as follows:
 - Front-End: HTML and CSS for the user interface.
 - Backend: Azure Functions handling API requests.
