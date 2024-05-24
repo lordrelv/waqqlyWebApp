@@ -2,7 +2,7 @@ Waqq.ly Web Application
 
 FEATURES
 User Registration: Allows dog owners to register their dogs and dog walkers to register themselves.
-Serverless Backend: Utilizes Azure Functions for scalable and efficient request handling.
+Serverless Backend: Utilises Azure Functions for scalable and efficient request handling.
 NoSQL Database: Stores data in Cosmos DB for flexibility and scalability.
 Responsive Design: Ensures the web application is accessible on various devices.
 Continuous Integration and Deployment: Managed via GitHub Actions for seamless updates and deployment.
