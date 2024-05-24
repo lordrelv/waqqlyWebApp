@@ -27,7 +27,7 @@ PREREQUISITES:
 
 STEPS 1: CLONE THE REPOSITORY
 - Clone the repository: git clone https://github.com/lordrelv/waqqlyWebApp.git
-< cd waqqlyWebApp >
+- cd waqqlyWebApp
 
 STEP 2: INSTALL DEPENDENCIES
 - cd src
